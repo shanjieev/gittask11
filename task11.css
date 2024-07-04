@@ -1,0 +1,73 @@
+
+.bg-dark {
+    background-color: #1c1d1e !important;
+  }
+  
+  .intro {
+    background-color: #1c1d1e;
+    height: 50vh;
+    padding-top: 15vh;
+    margin-bottom: 4rem;
+  }
+  .intro h1 {
+    font-size: 3.2rem;
+  }
+  .intro h4 {
+    font-weight: lighter;
+  }
+  .profile-photo {
+    width: 300px;
+    margin: auto;
+  }
+  .btn-group {
+    margin: 3rem auto;
+  }
+  .btn {
+    font-size: 0.8rem;
+    padding: 8px 16px;
+    margin: 0 0.2rem;
+  }
+  .quote {
+    background-color: #1c1d1e;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  hr {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+    color: lightgray;
+  }
+  .awards-separator {
+    margin: 3rem auto;
+  }
+  .awards {
+    margin: auto;
+  }
+  .award {
+    min-width: 250px;
+    padding: 1rem;
+    border: 2px solid lightgray;
+    margin: 0.5rem;
+    border-radius: 3px;
+  }
+  .work {
+    margin: 0 auto;
+  }
+  .artist-work {
+    margin: 3rem auto;
+  }
+  footer {
+    background-color: #1c1d1e;
+    padding-top: 4rem;
+    margin: 0 auto;
+  }
+  .footer-content {
+    margin: 1rem;
+  }
+  @media (min-width: 992px) {
+    .navbar-collapse {
+      padding-left: 20% !important;
+    }
+  }
+  
